@@ -35,9 +35,9 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/froilansulit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="froilansulit" height="30" width="40" /></a>
-<a href="https://fb.com/https://facebook.com/froilan.sulit.77" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/froilan.sulit.77" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/froilansulit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="froilansulit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/froilansulit" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="froilansulit" height="30" width="40" /></a>
+<a href="https://fb.com/https://facebook.com/froilan.sulit.77" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/froilan.sulit.77" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/froilansulit" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="froilansulit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
