@@ -8,6 +8,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
+<br>
 
 
 - 🔭 I’m currently working on **Covid Cases Tracker**
