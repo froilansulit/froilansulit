@@ -4,7 +4,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 
 <h3 align="center">A passionate web developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=froilansulit&label=Profile%20views&color=0e75b6&style=flat" alt="froilansulit" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=froilansulit&label=Profile%20views&color=0e75b6&style=flat" alt="froilansulit" /> </p> -->
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
