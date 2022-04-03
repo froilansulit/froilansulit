@@ -6,7 +6,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=froilansulit&label=Profile%20views&color=0e75b6&style=flat" alt="froilansulit" /> </p> -->
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 - 🔭 I’m currently working on **Covid Cases Tracker**
 
