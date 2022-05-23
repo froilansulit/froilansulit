@@ -20,7 +20,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 
 - 📫 How to reach me **froilansulit017@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12L3YtEvo1PfOWiIG9erDscuSIHfysNJD/view?usp=sharing](https://drive.google.com/file/d/12L3YtEvo1PfOWiIG9erDscuSIHfysNJD/view?usp=sharing)
+- 📄 Know about my experiences [Click here !](https://drive.google.com/file/d/1diW4KoVa8xM1pQw4UMcoQiSFdJCF6JEO/view?usp=sharing)
 
 ## Other stuff that I do <br>
 
