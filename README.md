@@ -2,7 +2,7 @@
 
 Computer Science student and aspiring Web Developer, Currently studying computer science at Eulogio "Amang" Rodriguez Institute of Science and Technology. I wanted to be a successful Web Developer someday, I want to learn more programming languages and I want to explore more.
 
-<h3 align="center">A passionate web developer from Philippines</h3>
+<h3 align="center">A passionate aspiring web developer from Philippines</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=froilansulit&label=Profile%20views&color=0e75b6&style=flat" alt="froilansulit" /> </p> -->
 
