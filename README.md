@@ -9,7 +9,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 - 🔭 I’m currently working on **Transaction Information System**
-- 🔭 I’m currently working on **Covid Cases Tracker**
+<!-- - 🔭 I’m currently working on **Covid Cases Tracker** -->
 - 🌱 I’m currently learning **Programming Languages**
 
 - 👨‍💻 All of my projects are <b> NOT available right now.
