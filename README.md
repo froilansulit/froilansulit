@@ -14,7 +14,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 
 - 👨‍💻 All of my projects are <b> NOT available right now.
 
-- 👨‍💻 All of my projects are available at [https://gcd-online-enrollment.neocities.org/](https://gcd-online-enrollment.neocities.org/)
+<!--- 👨‍💻 All of my projects are available at [https://gcd-online-enrollment.neocities.org/](https://gcd-online-enrollment.neocities.org/) -->
 
 - 💬 Ask me about **Programming**
 
