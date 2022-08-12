@@ -27,7 +27,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 👨‍🏫 Teaching Programming Languages <br>
 📒 Learning new programming languages<br>
 🎬 Watching Movies <br>
-♥️ Helping Other people has difficulty <br> studying programming languages<br>
+♥️ Helping other people who have difficulty studying programming languages<br>
 📖 Exploring Something New <br>
 
 
