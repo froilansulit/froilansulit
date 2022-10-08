@@ -55,4 +55,4 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=froilansulit&show_icons=true&locale=en" alt="froilansulit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=froilansulit&" alt="froilansulit" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=froilansulit&" alt="froilansulit" /></p> -->
