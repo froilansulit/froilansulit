@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Froilan Quiseo Sulit</h1>
+Ko<h1 align="center">Hi 👋, I'm Froilan Quiseo Sulit</h1>
 
 Computer Science student and aspiring Web Developer, Currently studying computer science at Eulogio "Amang" Rodriguez Institute of Science and Technology. I wanted to be a successful Web Developer someday, I want to learn more programming languages, technologies and I want to enhance my skills and logic.
 
@@ -39,7 +39,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 <a href="https://linkedin.com/in/froilansulit" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="froilansulit" height="30" width="40" /></a>
 
 <!-- <a href="https://discord.gg/#7366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7366" height="30" width="40" /></a> -->
-</p>
+</p>bjkk
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
