@@ -1,4 +1,4 @@
-Ko<h1 align="center">Hi 👋, I'm Froilan Quiseo Sulit</h1>
+<h1 align="center">Hi 👋, I'm Froilan Quiseo Sulit</h1>
 
 Computer Science student and aspiring Web Developer, Currently studying computer science at Eulogio "Amang" Rodriguez Institute of Science and Technology. I wanted to be a successful Web Developer someday, I want to learn more programming languages, technologies and I want to enhance my skills and logic.
 
