@@ -39,7 +39,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 <a href="https://linkedin.com/in/froilansulit" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="froilansulit" height="30" width="40" /></a>
 
 <!-- <a href="https://discord.gg/#7366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7366" height="30" width="40" /></a> -->
-</p>bjkk
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
