@@ -3,7 +3,7 @@
 Computer Science student and aspiring Web Developer, Currently studying computer science at Eulogio "Amang" Rodriguez Institute of Science and Technology. I wanted to be a successful Web Developer someday, I want to learn more programming languages, and technologies and I want to enhance my skills and logic.
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
-
+<br>
 🔭 I’m currently working on Personal Projects<br>
 🌱 I’m currently learning Manual Testing<br>
 👨‍💻 All of my projects are <b> NOT available right now. </b><br>
