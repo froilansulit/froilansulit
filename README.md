@@ -9,7 +9,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 👨‍💻 All of my projects are <b> NOT available right now. </b><br>
 💬 Ask me about Programming<br>
 
-<!-- - 123 🔭 I’m currently working on **Transaction Information System** -->
+<!-- - 🔭 I’m currently working on **Transaction Information System** -->
 <!-- - 🔭 I’m currently working on **Covid Cases Tracker** -->
 <!-- - 🌱 I’m currently learning **Programming Languages** -->
 <!-- 👯 I’m looking to collaborate on <br> -->
