@@ -29,7 +29,7 @@ Computer Science student and aspiring Web Developer, Currently studying computer
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) -->
 <!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  -->
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=froilansulit&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=froilansulit&theme=city_light&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=froilansulit&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
